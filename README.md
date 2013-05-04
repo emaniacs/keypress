@@ -26,6 +26,8 @@ Method
     
     You can use Control, Alt, Shift and Meta which combination with Character or Enter.
     
+    _Return_: this object
+    
     
 Example
 -------
